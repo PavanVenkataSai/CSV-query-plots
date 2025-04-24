@@ -1,0 +1,7 @@
+streamlit
+pandas
+pandasql
+matplotlib
+plotly
+requests
+seaborn
